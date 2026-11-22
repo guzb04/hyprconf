@@ -1,0 +1,6 @@
+local terminal = "kitty"
+local fileManager = "dolphin"
+local menu = "wofi --show drun"
+local browser = "zen-browser"
+local editor = "nvim"
+local mainMod = "SUPER"
